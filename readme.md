@@ -1,6 +1,8 @@
 Duel game simulator - Test Driven Development - 2 out 4 test pass.
 
 
+
+
 # if you are taking the exam
 
  1. Please read __every__ single line of comment, this exercise has been run hundreds of time. there might still be an error but it's very very unlikely.
@@ -11,10 +13,3 @@ Duel game simulator - Test Driven Development - 2 out 4 test pass.
 You're not allowed to change a single character of the tests
 
 Good luck :D
-
-
-
-# if you are benching the exercise
-
-up to you, but feel free to create your own branch to host your solution and discuss it with team mates
-please commit somewhere or tell me how long it took you to perform
