@@ -1,4 +1,5 @@
-Duel game simulator
+Duel game simulator - Test Driven Development - 2 out 4 test pass.
+
 
 # if you are taking the exam
 
