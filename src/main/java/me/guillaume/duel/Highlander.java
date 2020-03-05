@@ -2,19 +2,27 @@ package me.guillaume.duel;
 
 import java.util.LinkedList;
 
-public class Viking extends Character {
+public class Highlander extends Character {
 
-    public Viking() {
-        this.hitPoints = 120;
-        this.weaponValue = 6;
+    public Highlander() {
+        this.hitPoints = 150;
+        this.weaponValue = 12;
         this.equip = new LinkedList<>();
+        this.experience = "";
+    }
+
+    public Highlander(String s) {
+        this.hitPoints = 150;
+        this.weaponValue = 12;
+        this.equip = new LinkedList<>();
+        this.experience = s;
     }
 
     public int hitPoints(){
         return this.hitPoints;
     }
 
-    public Viking equip(String s){
+    public Highlander equip(String s){
         if(s.equals("buckler")){
             this.equip.add(s);
             this.equipCounts +=7;
