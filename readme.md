@@ -1,3 +1,6 @@
+Duel game simulator - Test Driven Development - 2 out 4 test pass.
+
+
 
 
 # if you are taking the exam
@@ -10,12 +13,3 @@
 You're not allowed to change a single character of the tests
 
 Good luck :D
-
-
-
-# if you are benching the exercise
-
-up to you, but feel free to create your own branch to host your solution and discuss it with team mates
-please commit somewhere or tell me how long it took you to perform
-
-Guillaume.
