@@ -1,4 +1,4 @@
-Duel game simulator - Test Driven Development - 3 out 4 test pass / 1 test ignored.
+Duel game simulator - Test Driven Development - 4 out 4 test passed.
 
 
 
