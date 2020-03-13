@@ -19,13 +19,15 @@ public class Highlander extends Character {
     }
 
     public int hitPoints(){
+        if(this.hitPoints <= 0 )
+            return 0;
         return this.hitPoints;
     }
 
     public Highlander equip(String s){
         if(s.equals("buckler")){
             this.equip.add(s);
-            this.equipCounts +=7;
+            this.equipCounts +=3;
         }
         if(s.equals("armor")){
             this.equip.add(s);
